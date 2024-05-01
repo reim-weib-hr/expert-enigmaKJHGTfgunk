@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/expert-enigmaKJHGTfgunk/static/css/main.cef092c0.css",
+    "main.js": "/expert-enigmaKJHGTfgunk/static/js/main.dd1c7458.js",
+    "static/js/453.e3a22dfd.chunk.js": "/expert-enigmaKJHGTfgunk/static/js/453.e3a22dfd.chunk.js",
+    "index.html": "/expert-enigmaKJHGTfgunk/index.html",
+    "main.cef092c0.css.map": "/expert-enigmaKJHGTfgunk/static/css/main.cef092c0.css.map",
+    "main.dd1c7458.js.map": "/expert-enigmaKJHGTfgunk/static/js/main.dd1c7458.js.map",
+    "453.e3a22dfd.chunk.js.map": "/expert-enigmaKJHGTfgunk/static/js/453.e3a22dfd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cef092c0.css",
+    "static/js/main.dd1c7458.js"
+  ]
+}
